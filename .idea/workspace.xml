@@ -17,17 +17,14 @@
       <change afterPath="$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample6.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/count/CountExample1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/count/CountExample2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/package-info.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Concurrency/src/main/resources/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Concurrency/src/test/java/com/michael/mooc/concurrency/ConcurrencyApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Concurrency/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/target/classes/com/michael/mooc/concurrency/ConcurrencyApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/target/classes/com/michael/mooc/concurrency/ServletInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/target/test-classes/com/michael/mooc/concurrency/ConcurrencyApplicationTests.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Concurrency/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountExample2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/count/CountExample2.java">
+      <file leaf-file-name="AtomicExample5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="49" column="29" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="29" />
+            <state relative-caret-position="178">
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,15 +60,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AtomicInteger.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <file leaf-file-name="AtomicExample6.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+            <state relative-caret-position="479">
+              <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
               <folding>
-                <element signature="e#4725#4726#0" expanded="true" />
-                <element signature="e#4793#4794#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AtomicExample4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AtomicExample3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-193">
+              <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -79,17 +96,17 @@
       <file leaf-file-name="AtomicExample2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+            <state relative-caret-position="86">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="45" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AtomicExample3.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample3.java">
+      <file leaf-file-name="AtomicExample1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+            <state relative-caret-position="252">
+              <caret line="21" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -132,6 +149,9 @@
         <option value="$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample1.java" />
         <option value="$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample2.java" />
         <option value="$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample3.java" />
+        <option value="$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample4.java" />
+        <option value="$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample5.java" />
+        <option value="$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample6.java" />
       </list>
     </option>
   </component>
@@ -223,16 +243,6 @@
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="atomic" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="concurrency" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Concurrency" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="count" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -279,7 +289,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AtomicExample2">
+  <component name="RunManager" selected="Application.AtomicExample6">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -294,13 +304,35 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ConcurrencyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.michael.mooc.concurrency.ConcurrencyTest" />
+    <configuration name="AtomicExample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.michael.mooc.concurrency.example.atomic.AtomicExample4" />
       <module name="concurrency" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.michael.mooc.concurrency.*" />
+          <option name="PATTERN" value="com.michael.mooc.concurrency.example.atomic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="AtomicExample5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.michael.mooc.concurrency.example.atomic.AtomicExample5" />
+      <module name="concurrency" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.michael.mooc.concurrency.example.atomic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="AtomicExample6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.michael.mooc.concurrency.example.atomic.AtomicExample6" />
+      <module name="concurrency" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.michael.mooc.concurrency.example.atomic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,15 +395,19 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.ConcurrencyApplication" />
-      <item itemvalue="Application.ConcurrencyTest" />
       <item itemvalue="Application.CountExample2" />
       <item itemvalue="Application.AtomicExample2" />
+      <item itemvalue="Application.AtomicExample4" />
+      <item itemvalue="Application.AtomicExample5" />
+      <item itemvalue="Application.AtomicExample6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AtomicExample6" />
+        <item itemvalue="Application.AtomicExample5" />
+        <item itemvalue="Application.AtomicExample4" />
         <item itemvalue="Application.AtomicExample2" />
         <item itemvalue="Application.CountExample2" />
-        <item itemvalue="Application.ConcurrencyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -387,12 +423,12 @@
       <updated>1547098633968</updated>
       <workItem from="1547098635724" duration="2629000" />
       <workItem from="1547105900425" duration="1111000" />
-      <workItem from="1547178190313" duration="2602000" />
+      <workItem from="1547178190313" duration="4362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6342000" />
+    <option name="totallyTimeSpent" value="8102000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -405,6 +441,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="817" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32998565" />
@@ -689,13 +726,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -724,17 +754,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample2.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.4/lombok-1.18.4.jar!/lombok/extern/slf4j/Slf4j.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        <state relative-caret-position="247">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="21" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="-193">
           <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="45" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/main/java/com/michael/mooc/concurrency/example/atomic/AtomicExample6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
